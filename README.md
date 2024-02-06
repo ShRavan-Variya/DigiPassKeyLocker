@@ -1,1 +1,2 @@
 # DigiPassKeyLocker
+This is the offline application who can store all of your password locally and because of this the application is fully safe to use because your password is not going to online anywhere.
